@@ -1,2 +1,3 @@
-# terraform-state-in-typescript
-Define your Terraform state in Typescript
+# httpeter
+Minimalistic HTTP library for use with AWS Lambda
+
